@@ -2,7 +2,6 @@
 #include <cassert>
 #include <cstdlib>
 
-
 int fibonacci_sum_naive(long long n) {
     if (n <= 1)
         return n;
